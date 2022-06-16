@@ -1,10 +1,13 @@
-import React, { useState, useContext, useReducer } from "react";
+import React, { useState, useContext } from "react";
+
 import { GithubContext } from "../../context/github/GithubContext";
+import AlertContext from "../../context/alert/AlertContext";
 
 const UserSearch = () => {
   const [searchInput, setSearchInput] = useState("");
 
   const { users, searchUsers, clearUsers } = useContext(GithubContext);
+  const { setAlert } = useContext(AlertContext);
 
   const searchInputHandler = (e) => setSearchInput(e.target.value);
 
@@ -13,7 +16,7 @@ const UserSearch = () => {
 
     if (searchInput === "") {
       //throw an error
-      alert("Please enter a username!");
+      setAlert("Please enter something!", "error");
     }
     //get the users
     searchUsers(searchInput);
