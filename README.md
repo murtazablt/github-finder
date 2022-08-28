@@ -6,7 +6,7 @@ To provide a different user interface for displaying a GitHub Users and their pr
 These are some screenshoots from GitFinder:
 
 ![homepage](https://drive.google.com/drive/u/0/folders/1TT5ZmVl3O32S2ETlwLQ8-DLZ_bhWVILH "homepage")
-https://drive.google.com/file/d/12wew3_kGS_v7ht968P_sEvNnYspe3Zyp/view?usp=sharing
+
 
 ![searched-user](https://drive.google.com/file/d/12wew3_kGS_v7ht968P_sEvNnYspe3Zyp/view?usp=sharing){width=60%,height=auto}
 
