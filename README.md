@@ -6,8 +6,12 @@ To provide a different user interface for displaying a GitHub Users and their pr
 These are some screenshoots from GitFinder:
 ### HomePage
 ![homepage](https://github.com/murtazablt/github-finder/blob/master/screenShoots/GitFinder-homepage.png)
+
 ### SearchingPage
-<img src="https://github.com/murtazablt/github-finder/blob/master/screenShoots/GitFinder-searchedUser.png" alt="searching-page" title="searching-page" width="50%" height="auto" />
+![searching-page](https://github.com/murtazablt/github-finder/blob/master/screenShoots/GitFinder-searchedUser.png)
+
+## ProfilePage
+![profile-page](https://github.com/murtazablt/github-finder/blob/master/screenShoots/GitFinder-profilePage.png)
 
 ## How did I build that project?
 Brad Traversy from "React Front to Back 2022" Udemy Course provided the design and idea and I wrote the whole code by using React, TailwindCSS and DaisyUI.
