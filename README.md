@@ -7,7 +7,7 @@ These are some screenshoots from GitFinder:
 ### HomePage
 ![homepage](https://github.com/murtazablt/github-finder/blob/master/screenShoots/GitFinder-homepage.png)
 ### SearchingPage
-![searching-page](https://github.com/murtazablt/github-finder/blob/master/screenShoots/GitFinder-searchedUser.png){ width=60%,height:30px }
+<img src="https://github.com/murtazablt/github-finder/blob/master/screenShoots/GitFinder-searchedUser.png" alt="searching-page" title="searching-page" width="100" height="100" />
 
 ## How did I build that project?
 Brad Traversy from "React Front to Back 2022" Udemy Course provided the design and idea and I wrote the whole code by using React, TailwindCSS and DaisyUI.
