@@ -23,6 +23,7 @@ GitFinder provides a service for the users, which they can search for a Github U
 That's my first project that I used TailwindCSS and DaisyUI, so the biggest contribution of that project to me is learning how use TailWindCSS and DaisyUI.
 
 ## What makes myproject stand out?
+GitFinder provides a simple and clean user interface with only information that you need for finding GitHub users, so there is less distraction than the original github page.
 
 
 ## Available Scripts
