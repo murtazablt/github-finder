@@ -4,7 +4,10 @@ Implementing my knowledge about ReacJS, Tailwind CSS, Daisy UI on a project and 
 ## Why did I build that project?
 To provide a different user interface for displaying a GitHub Users and their profile information.
 These are some screenshoots from GitFinder:
+### HomePage
 ![homepage](https://github.com/murtazablt/github-finder/blob/master/screenShoots/GitFinder-homepage.png)
+### SearchingPage
+![searching-page](https://github.com/murtazablt/github-finder/blob/master/screenShoots/GitFinder-searchedUser.png){ width=60%,height:30px }
 
 ## How did I build that project?
 Brad Traversy from "React Front to Back 2022" Udemy Course provided the design and idea and I wrote the whole code by using React, TailwindCSS and DaisyUI.
